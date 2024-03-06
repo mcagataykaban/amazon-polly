@@ -35,8 +35,3 @@ This project utilizes Amazon Polly to convert text to speech in a web applicatio
 5. To start the server, run:
    ```bash
    yarn start or  npm start
-
-
-
-  
-   
